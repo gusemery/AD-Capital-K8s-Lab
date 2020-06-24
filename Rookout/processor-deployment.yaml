@@ -4,7 +4,7 @@ metadata:
   name: processor
   labels:
     app: processor
-    name: processor
+    name: processor1
     keel.sh/policy: force
     keel.sh/trigger: poll
 spec:

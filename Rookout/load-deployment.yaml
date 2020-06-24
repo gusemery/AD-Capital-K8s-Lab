@@ -4,7 +4,7 @@ kind: Pod
 metadata:
   labels:
     app: load
-  name: load
+  name: load2
 spec:
   containers:
   - env:
